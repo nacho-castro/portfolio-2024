@@ -1,11 +1,10 @@
 import { Component } from '@angular/core';
 import jsonData from '/Cursos/GitHub Projects/Portfolio 2024 Ignacio/portfolio_2024/src/assets/data/data.json';
-import { ModalComponent } from '../modal/modal.component';
 
 @Component({
   selector: 'app-inicio',
   standalone: true,
-  imports: [ModalComponent],
+  imports: [],
   templateUrl: './inicio.component.html',
   styleUrl: './inicio.component.css'
 })

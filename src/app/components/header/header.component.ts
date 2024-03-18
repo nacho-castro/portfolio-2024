@@ -1,7 +1,4 @@
 import { Component } from '@angular/core';
-import { NgIf } from '@angular/common';
-import { ModalComponent } from '../modal/modal.component';
-import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-header',
