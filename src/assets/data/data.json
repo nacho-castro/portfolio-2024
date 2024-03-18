@@ -1,0 +1,144 @@
+{
+    "title": "Hola, soy Ignacio!",
+    "profile_img": "/assets/images/perfil11.jpg",
+    "descripcion": "Estudiante de Ingeniería en Sistemas en la UTN. Amante de la tecnología. En este portfolio podras conocer mis proyectos y contactarte conmigo!",
+    "cv_link": "https://drive.google.com/file/d/16LIaTlPX81NmfY2Hk0kpthzYezn3Vv8Y/view?usp=sharing",
+    "git_link": "https://github.com/nacho-castro",
+    "skills": [
+        {
+            "type": "front",
+            "name": "html",
+            "img": "/assets/images/html.png"
+        },
+        {
+            "type": "front",
+            "name": "css",
+            "img": "/assets/images/css.png"
+        },
+        {
+            "type": "front",
+            "name": "js",
+            "img": "/assets/images/javascript.png"
+        },
+        {
+            "type": "front",
+            "name": "angular",
+            "img": "/assets/images/angular.png"
+        },
+        {
+            "type": "back",
+            "name": "java",
+            "img": "/assets/images/java.png"
+        },
+        {
+            "type": "back",
+            "name": "mysql",
+            "img": "/assets/images/mysql.png"
+        },
+        {
+            "type": "back",
+            "name": "c++",
+            "img": "./assets/images/c++.png"
+        },
+        {
+            "type": "front",
+            "name": "bootstrap",
+            "img": "/assets/images/bootstrap.png"
+        },
+        {
+            "type": "others",
+            "name": "git",
+            "img": "./assets/images/git.png"
+        },
+        {
+            "type": "others",
+            "name": "postman",
+            "img": "./assets/images/postman.png"
+        },
+        {
+            "type": "others",
+            "name": "canva",
+            "img": "./assets/images/canva.png"
+        },
+        {
+            "type": "others",
+            "name": "drawio",
+            "img": "./assets/images/drawio.png"
+        }
+    ],
+    "proyectos": [
+        {
+            "title": "ArgentinaPrograma",
+            "description": "Portfolio realizado con Angular, Java, MySQL y SpringBoot",
+            "year": "2023",
+            "git": "https://github.com/nacho-castro/portfolio-BackEnd",
+            "view": "https://portfolio-frontend-ignacio.web.app/portfolio",
+            "img": "/assets/images/portfolioarg.png"
+        },
+        {
+            "title": "Proyecto de Udemy",
+            "description": "App web desarrollada con Java, Servlets, JSP, JDBC y patrón MVC. Base de datos MySQL.",
+            "year": "2024",
+            "git": "https://github.com/nacho-castro/control-clientes",
+            "view": "https://control-clientes-phi.vercel.app/",
+            "img": "/assets/images/controlclientes.png"
+        },
+        {
+            "title": "Encriptador",
+            "description": "Challenge Encriptador de Alura utilizando HTML, CSS y JavaScript",
+            "year": "2024",
+            "git": "https://github.com/nacho-castro/challenge-encriptador",
+            "view": "https://nacho-castro.github.io/challenge-encriptador/",
+            "img": "/assets/images/encriptador.png"
+        },
+        {
+            "title": "Barberia",
+            "description": "Página Web Estática creada durante el curso HTML5 y CSS3 de Alura",
+            "year": "2024",
+            "git": "https://github.com/nacho-castro/barberia-alura",
+            "view": "https://nacho-castro.github.io/barberia-alura/",
+            "img": "/assets/images/barberia.png"
+        },
+        {
+            "title": "Juego del Numero Secreto",
+            "description": "Página Web Estática utilizando HTML, CSS y JavaScript",
+            "year": "2024",
+            "git": "https://github.com/nacho-castro/juego-numero-secreto",
+            "view": "https://nacho-castro.github.io/juego-numero-secreto/",
+            "img": "/assets/images/numero.png"
+        }
+
+    ],
+    "educacion": [
+        {
+            "title": "Universidad Tecnologica Nacional",
+            "description": "Ingenieria en Sistemas",
+            "year": "2023 - Actualidad",
+            "img": "/assets/images/utn.jpg"
+        },
+        {
+            "title": "Inglés Intermedio Superior",
+            "description": "Municipalidad de San Fernando",
+            "year": "2023 - Actualidad",
+            "img": "./assets/images/sanfernando.png"
+        },
+        {
+            "title": "Oracle Next Education",
+            "description": "Programa ONE de Oracle",
+            "year": "2024 - Actualidad",
+            "img": "./assets/images/oracle.png"
+        },
+        {
+            "title": "Curso Java en Udemy",
+            "description": "Universidad Java",
+            "year": "2024 - Actualidad",
+            "img": "./assets/images/udemy.jpg"
+        },
+        {
+            "title": "Argentina Programa",
+            "description": "Curso #YoProgramo",
+            "year": "2022 - 2023",
+            "img": "./assets/images/argprog.png"
+        }
+    ]
+}
