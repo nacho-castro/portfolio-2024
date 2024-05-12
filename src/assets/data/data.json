@@ -26,9 +26,19 @@
             "img": "/assets/images/angular.png"
         },
         {
+            "type": "front",
+            "name": "bootstrap",
+            "img": "/assets/images/bootstrap.png"
+        },
+        {
             "type": "back",
             "name": "java",
             "img": "/assets/images/java.png"
+        },
+        {
+            "type": "back",
+            "name": "spring",
+            "img": "./assets/images/spring.png"
         },
         {
             "type": "back",
@@ -37,13 +47,8 @@
         },
         {
             "type": "back",
-            "name": "c++",
-            "img": "./assets/images/c++.png"
-        },
-        {
-            "type": "front",
-            "name": "bootstrap",
-            "img": "/assets/images/bootstrap.png"
+            "name": "firebase",
+            "img": "/assets/images/firebase.png"
         },
         {
             "type": "others",
@@ -100,7 +105,7 @@
             "img": "/assets/images/barberia.png"
         },
         {
-            "title": "Juego del Numero Secreto",
+            "title": "Juego del Número Secreto",
             "description": "Página Web Estática utilizando HTML, CSS y JavaScript",
             "year": "2024",
             "git": "https://github.com/nacho-castro/juego-numero-secreto",
@@ -111,16 +116,10 @@
     ],
     "educacion": [
         {
-            "title": "Universidad Tecnologica Nacional",
-            "description": "Ingenieria en Sistemas",
+            "title": "Universidad Tecnológica Nacional",
+            "description": "Ingeniería en Sistemas de Información",
             "year": "2023 - Actualidad",
             "img": "/assets/images/utn.jpg"
-        },
-        {
-            "title": "Inglés Intermedio Superior",
-            "description": "Municipalidad de San Fernando",
-            "year": "2023 - Actualidad",
-            "img": "./assets/images/sanfernando.png"
         },
         {
             "title": "Oracle Next Education",
@@ -133,6 +132,12 @@
             "description": "Universidad Java",
             "year": "2024 - Actualidad",
             "img": "./assets/images/udemy.jpg"
+        },
+        {
+            "title": "Inglés Intermedio Superior",
+            "description": "Municipalidad de San Fernando",
+            "year": "2023",
+            "img": "./assets/images/sanfernando.png"
         },
         {
             "title": "Argentina Programa",
