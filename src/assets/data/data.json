@@ -2,7 +2,7 @@
     "title": "Hola, soy Ignacio!",
     "profile_img": "/assets/images/perfil11.jpg",
     "descripcion": "Estudiante de Ingeniería en Sistemas en la UTN. Amante de la tecnología. En este portfolio podras conocer mis proyectos y contactarte conmigo!",
-    "cv_link": "https://drive.google.com/file/d/16LIaTlPX81NmfY2Hk0kpthzYezn3Vv8Y/view?usp=sharing",
+    "cv_link": "https://drive.google.com/file/d/1siCOfLrLe1nKKhU63H8zKWxThzNaS_H2/view?usp=sharing",
     "git_link": "https://github.com/nacho-castro",
     "skills": [
         {
@@ -122,16 +122,16 @@
             "img": "/assets/images/utn.jpg"
         },
         {
-            "title": "Oracle Next Education",
-            "description": "Programa ONE de Oracle",
-            "year": "2024 - Actualidad",
-            "img": "./assets/images/oracle.png"
-        },
-        {
             "title": "Curso Java en Udemy",
             "description": "Universidad Java",
             "year": "2024 - Actualidad",
             "img": "./assets/images/udemy.jpg"
+        },
+        {
+            "title": "Oracle Next Education",
+            "description": "Programa ONE de Oracle",
+            "year": "2024",
+            "img": "./assets/images/oracle.png"
         },
         {
             "title": "Inglés Intermedio Superior",
