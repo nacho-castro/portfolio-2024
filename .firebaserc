@@ -1,5 +1,10 @@
 {
   "projects": {
-    "default": "portfolio-ignacio-castro"
-  }
+    "default": "portfolio-ignacio-castro",
+    "firebase use <ID-del-proyecto>": "control-clientes-da134",
+    "firebase use portfolio-ignacio-castro": "control-clientes-da134",
+    "portfolio-ignacio-castro": "portfolio-ignacio-castro"
+  },
+  "targets": {},
+  "etags": {}
 }

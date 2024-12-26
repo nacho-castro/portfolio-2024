@@ -1,7 +1,8 @@
 {
     "title": "Hola, soy Ignacio!",
-    "profile_img": "/assets/images/perfil11.jpg",
+    "profile_img": "/assets/images/profile.jpg",
     "descripcion": "Estudiante de Ingeniería en Sistemas en la UTN. Amante de la tecnología. En este portfolio podras conocer mis proyectos y contactarte conmigo!",
+    "about":"Comencé a programar a los 16 años. Me gusta implementar soluciones tecnológicas a problemáticas cotidianas. Considero que es fundamental no dejar de aprender, además de saber adaptarse a las nuevas tecnologías. Actualmente trabajo en proyectos propios y doy clases particulares de matemática.",
     "cv_link": "https://drive.google.com/file/d/1siCOfLrLe1nKKhU63H8zKWxThzNaS_H2/view?usp=sharing",
     "git_link": "https://github.com/nacho-castro",
     "skills": [
@@ -73,19 +74,27 @@
     ],
     "proyectos": [
         {
-            "title": "ArgentinaPrograma",
-            "description": "Portfolio realizado con Angular, Java, MySQL y SpringBoot",
-            "year": "2023",
-            "git": "https://github.com/nacho-castro/portfolio-BackEnd",
-            "view": "https://portfolio-frontend-ignacio.web.app/portfolio",
-            "img": "/assets/images/portfolioarg.png"
+            "title": "Compilador de lenguaje MICRO",
+            "description": "Interprete de lenguaje MICRO desarrollado con Flex, Bison y C para la materia SSL",
+            "year": "2024",
+            "git": "https://github.com/nacho-castro/SSL-UTN-Compilador",
+            "view": "https://docs.google.com/document/d/1hKC8MuPhh_cCaMuFumbcAH80Z2TZ4WiCwB2yIYqBiho/edit?usp=sharing",
+            "img": "/assets/images/TPFINAL.png"
+        },
+        {
+            "title": "ForoHub API REST",
+            "description": "API REST con Java y Spring. Permite operaciones CRUD y autenticacion con JWT",
+            "year": "2024",
+            "git": "https://github.com/nacho-castro/SSL-UTN-Compilador",
+            "view": "https://www.linkedin.com/posts/ignacio-castro-p_alura-java-spring-activity-7217653564523851777-lW6Z/",
+            "img": "/assets/images/forohub.png"
         },
         {
             "title": "Proyecto de Udemy",
             "description": "App web desarrollada con Java, Servlets, JSP, JDBC y patrón MVC. Base de datos MySQL.",
             "year": "2024",
             "git": "https://github.com/nacho-castro/control-clientes",
-            "view": "https://control-clientes-phi.vercel.app/",
+            "view": "https://github.com/nacho-castro/control-clientes",
             "img": "/assets/images/controlclientes.png"
         },
         {
@@ -111,8 +120,15 @@
             "git": "https://github.com/nacho-castro/juego-numero-secreto",
             "view": "https://nacho-castro.github.io/juego-numero-secreto/",
             "img": "/assets/images/numero.png"
+        },
+        {
+            "title": "ArgentinaPrograma",
+            "description": "Portfolio realizado con Angular, Java, MySQL y SpringBoot",
+            "year": "2023",
+            "git": "https://github.com/nacho-castro/portfolio-BackEnd",
+            "view": "https://portfolio-frontend-ignacio.web.app/portfolio",
+            "img": "/assets/images/portfolioarg.png"
         }
-
     ],
     "educacion": [
         {

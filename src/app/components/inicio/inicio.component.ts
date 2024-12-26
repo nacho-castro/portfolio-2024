@@ -13,6 +13,7 @@ export class InicioComponent {
   title: string = "";
   profile_img: string = "";
   descripcion: string = "";
+  about: string  = "";
   cv_link: string = "";
   git_link: string = "";
 
@@ -20,6 +21,7 @@ export class InicioComponent {
       this.title = this.data.title;
       this.profile_img = this.data.profile_img;
       this.descripcion = this.data.descripcion;
+      this.about = this.data.about;
       this.cv_link = this.data.cv_link;
       this.git_link = this.data.git_link;
   }
