@@ -3,7 +3,7 @@
     "profile_img": "/assets/images/profile.jpg",
     "descripcion": "Estudiante de Ingeniería en Sistemas en la UTN. Amante de la tecnología. En este portfolio podras conocer mis proyectos y contactarte conmigo!",
     "about":"Comencé a programar a los 16 años. Me gusta implementar soluciones tecnológicas a problemáticas cotidianas. Considero que es fundamental no dejar de aprender, además de saber adaptarse a las nuevas tecnologías. Actualmente trabajo en proyectos propios y doy clases particulares de matemática.",
-    "cv_link": "https://drive.google.com/file/d/1siCOfLrLe1nKKhU63H8zKWxThzNaS_H2/view?usp=sharing",
+    "cv_link": "https://drive.google.com/file/d/1-pHnsFU1CGdRP0FB6HwgT-5EQPHoQq-s/view?usp=sharing",
     "git_link": "https://github.com/nacho-castro",
     "skills": [
         {
@@ -85,7 +85,7 @@
             "title": "ForoHub API REST",
             "description": "API REST con Java y Spring. Permite operaciones CRUD y autenticacion con JWT",
             "year": "2024",
-            "git": "https://github.com/nacho-castro/SSL-UTN-Compilador",
+            "git": "https://github.com/nacho-castro/forohub",
             "view": "https://www.linkedin.com/posts/ignacio-castro-p_alura-java-spring-activity-7217653564523851777-lW6Z/",
             "img": "/assets/images/forohub.png"
         },
@@ -156,7 +156,7 @@
             "img": "./assets/images/sanfernando.png"
         },
         {
-            "title": "Argentina Programa",
+            "title": "Argentina Programa 4.0",
             "description": "Curso #YoProgramo",
             "year": "2022 - 2023",
             "img": "./assets/images/argprog.png"
