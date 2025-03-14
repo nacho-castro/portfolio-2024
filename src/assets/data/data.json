@@ -74,6 +74,14 @@
     ],
     "proyectos": [
         {
+            "title": "MisTareas",
+            "description": "ToDoList creada para un alumno. Permite organizar listas de tareas y visualizar en calendario",
+            "year": "2025",
+            "git": "https://github.com/nacho-castro/mis-tareas-app",
+            "view": "https://mis-tareas-d40a2.web.app/",
+            "img": "/assets/images/misTareas.png"
+        },
+        {
             "title": "Compilador de lenguaje MICRO",
             "description": "Interprete de lenguaje MICRO desarrollado con Flex, Bison y C para la materia SSL",
             "year": "2024",
@@ -86,7 +94,7 @@
             "description": "API REST con Java y Spring. Permite operaciones CRUD y autenticacion con JWT",
             "year": "2024",
             "git": "https://github.com/nacho-castro/forohub",
-            "view": "https://www.linkedin.com/posts/ignacio-castro-p_alura-java-spring-activity-7217653564523851777-lW6Z/",
+            "view": "https://forohub-7dcv.onrender.com/swagger-ui/index.html",
             "img": "/assets/images/forohub.png"
         },
         {
