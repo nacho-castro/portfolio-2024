@@ -74,8 +74,16 @@
     ],
     "proyectos": [
         {
+            "title": "Portfolio JPMP",
+            "description": "Página Web Estática creada para artista con Angular17",
+            "year": "2025",
+            "git": "https://github.com/nacho-castro/portfolio-jpmp",
+            "view": "https://jpmp-arte.web.app/",
+            "img": "/assets/images/jpmp.png"
+        },
+        {
             "title": "MisTareas",
-            "description": "ToDoList creada para un alumno. Permite organizar listas de tareas y visualizar en calendario",
+            "description": "ToDoList creada para un alumno. CRUD. Permite organizar tareas y visualizar calendario.",
             "year": "2025",
             "git": "https://github.com/nacho-castro/mis-tareas-app",
             "view": "https://mis-tareas-d40a2.web.app/",
