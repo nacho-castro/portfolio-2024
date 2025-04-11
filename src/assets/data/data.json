@@ -106,6 +106,14 @@
             "img": "/assets/images/forohub.png"
         },
         {
+            "title": "Clinica Medica API REST",
+            "description": "API REST con Java y Spring. CRUD y auth con JWT. Administracion de turnos y pacientes.",
+            "year": "2024",
+            "git": "https://github.com/nacho-castro/APImedicos",
+            "view": "https://apimedicos.onrender.com/swagger-ui/index.html",
+            "img": "/assets/images/apimedicos.png"
+        },
+        {
             "title": "Proyecto de Udemy",
             "description": "App web desarrollada con Java, Servlets, JSP, JDBC y patrón MVC. Base de datos MySQL.",
             "year": "2024",
