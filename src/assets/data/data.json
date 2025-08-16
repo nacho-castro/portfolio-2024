@@ -74,6 +74,22 @@
     ],
     "proyectos": [
         {
+            "title": "Transferime, una Startup de UTN.LABS",
+            "description": "Chatbot automatizado con IA, desarrollado para facilitar la gestión de cobros de profesionales independientes. Envía recordatorios de pago por WhatsApp y notifica al profesional cuando el cliente realiza la transferencia.",
+            "year": "2025",
+            "git": "https://tn.com.ar/tecno/aplicaciones/2025/07/26/estudiantes-crearon-transferime-una-ia-en-whatsapp-que-simplifica-los-pagos-a-psicologos/",
+            "view": "https://walink.co/7c4b23",
+            "img": "/assets/images/transferime.png"
+        },
+        {
+            "title": "Trabajo práctico de Sistemas Operativos",
+            "description": "Simulación de un sistema operativo distribuido, desarrollado en Golang.",
+            "year": "2025",
+            "git": "https://github.com/nacho-castro/tp-sistemas-operativos-1c-2025.git",
+            "view": "https://www.linkedin.com/posts/ignacio-castro-p_tp-de-sistemas-operativos-aprobado-despu%C3%A9s-activity-7357486606930403328-WWwS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_OFKwBd9qaycHURpS3kz18Gn-y_3YK7oc",
+            "img": "/assets/images/so.png"
+        },
+        {
             "title": "Portfolio JPMP",
             "description": "Página Web Estática creada para artista con Angular17",
             "year": "2025",
