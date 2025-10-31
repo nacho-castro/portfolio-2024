@@ -23,6 +23,11 @@
         },
         {
             "type": "front",
+            "name": "react",
+            "img": "/assets/images/react.png"
+        },
+        {
+            "type": "front",
             "name": "angular",
             "img": "/assets/images/angular.png"
         },
@@ -41,10 +46,20 @@
             "name": "spring",
             "img": "./assets/images/spring.png"
         },
+         {
+            "type": "back",
+            "name": "nodejs",
+            "img": "/assets/images/nodejs.png"
+        },
         {
             "type": "back",
             "name": "mysql",
             "img": "/assets/images/mysql.png"
+        },
+        {
+            "type": "back",
+            "name": "mongodb",
+            "img": "/assets/images/mongodb.png"
         },
         {
             "type": "back",
@@ -86,7 +101,7 @@
             "description": "Simulación de un sistema operativo distribuido, desarrollado en Golang.",
             "year": "2025",
             "git": "https://github.com/nacho-castro/tp-sistemas-operativos-1c-2025.git",
-            "view": "https://www.linkedin.com/posts/ignacio-castro-p_tp-de-sistemas-operativos-aprobado-despu%C3%A9s-activity-7357486606930403328-WWwS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_OFKwBd9qaycHURpS3kz18Gn-y_3YK7oc",
+            "view": "https://docs.google.com/document/d/1zoFRoBn9QAfYSr0tITsL3PD6DtPzO2sq9AtvE8NGrkc/edit?tab=t.0",
             "img": "/assets/images/so.png"
         },
         {
@@ -146,22 +161,6 @@
             "img": "/assets/images/encriptador.png"
         },
         {
-            "title": "Barberia",
-            "description": "Página Web Estática creada durante el curso HTML5 y CSS3 de Alura",
-            "year": "2024",
-            "git": "https://github.com/nacho-castro/barberia-alura",
-            "view": "https://nacho-castro.github.io/barberia-alura/",
-            "img": "/assets/images/barberia.png"
-        },
-        {
-            "title": "Juego del Número Secreto",
-            "description": "Página Web Estática utilizando HTML, CSS y JavaScript",
-            "year": "2024",
-            "git": "https://github.com/nacho-castro/juego-numero-secreto",
-            "view": "https://nacho-castro.github.io/juego-numero-secreto/",
-            "img": "/assets/images/numero.png"
-        },
-        {
             "title": "ArgentinaPrograma",
             "description": "Portfolio realizado con Angular, Java, MySQL y SpringBoot",
             "year": "2023",
@@ -180,7 +179,7 @@
         {
             "title": "Curso Java en Udemy",
             "description": "Universidad Java",
-            "year": "2024 - Actualidad",
+            "year": "2024",
             "img": "./assets/images/udemy.jpg"
         },
         {

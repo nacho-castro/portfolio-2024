@@ -2,7 +2,6 @@ import { NgFor } from '@angular/common';
 import { Component, Input, SimpleChanges } from '@angular/core';
 import jsonData from '/Cursos/GitHub Projects/Portfolio 2024 Ignacio/portfolio_2024/src/assets/data/data.json';
 
-
 @Component({
   selector: 'app-skcard',
   standalone: true,

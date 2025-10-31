@@ -1,24 +1,18 @@
 <div class="container" id="icon-grid">
-    <h1 class="pb-2 border-bottom" id="skills">Habilidades</h1>
-  
-    <nav class="navbar navbar-light bg-light">
-      <div class="container-fluid">
-        <div class="navbar" id="navbarNav2">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <button class="btn btn-lg" (click)="changeSkill('front')">Front-End</button>
-            </li>
-            <li class="nav-item">
-              <button class="btn btn-lg" (click)="changeSkill('back')">Back-End</button>
-            </li>
-            <li class="nav-item">
-              <button class="btn btn-lg" (click)="changeSkill('others')">Otros</button>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav> 
-  
-    <app-skcard [selectedSkill]="selectedSkill"></app-skcard>
-  
+  <h1 class="pb-2 border-bottom" id="skills">Habilidades</h1>
+
+  <div class="skills-menu">
+    <button class="menu-btn" [class.active]="selectedSkill === 'front'" (click)="changeSkill('front')">
+      Front-End
+    </button>
+    <button class="menu-btn" [class.active]="selectedSkill === 'back'" (click)="changeSkill('back')">
+      Back-End
+    </button>
+    <button class="menu-btn" [class.active]="selectedSkill === 'others'" (click)="changeSkill('others')">
+      Otros
+    </button>
   </div>
+
+  <app-skcard [selectedSkill]="selectedSkill"></app-skcard>
+
+</div>
